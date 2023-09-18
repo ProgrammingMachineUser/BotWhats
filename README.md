@@ -24,4 +24,3 @@ bot.driver.implicitly_wait(5)
 Licença
 
 Este projeto é licenciado sob a licença MIT.
-Este projeto é licenciado sob a licença MIT.
